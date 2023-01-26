@@ -1,6 +1,7 @@
 # WorkflowPractice
 Used for initial introduction to GitHub workflow
 
-Greg Schaper
+Put a blank line between the last name in the list and your name.
 
-John Doe
+
+
