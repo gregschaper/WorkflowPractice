@@ -22,3 +22,5 @@ Owen Halliday
 Shawn Ryer
 
 Seth Coleman
+
+Braden Kirkpatrick
